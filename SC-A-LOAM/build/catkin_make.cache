@@ -1,0 +1,2 @@
+SC-A-LOAM
+-DCATKIN_DEVEL_PREFIX=/home/yang/CODE-NEW/SC-A-LOAM/devel -DCMAKE_INSTALL_PREFIX=/home/yang/CODE-NEW/SC-A-LOAM/install -G Unix Makefiles
